@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Special Elite', cursive;
+    color: black;
+    font-size: 7vw;
+  }
+  .thin-border {
+      border-color: rgb(65, 64, 64);
+      border-width: .5vw;
+      border-style: solid;
+  }
+  #container {
+      padding-top: 100px;
+      position: relative;
+      text-align: center;
+  }
+  .text-pretty {
+      position: absolute;
+      bottom: -19%;
+      left: 50%;
+      transform: translate(-50%, 0%);
+  }
+  .img-pretty {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    height: auto;
+}
+@media (max-width: 450px) {
+    .img-pretty {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 75%; 
+        height: auto;
+    }
+    h1 {
+        font-family: 'Special Elite', cursive;
+        color: black;
+        font-size: 9.5vw;
+      }
+}
