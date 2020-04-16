@@ -42,7 +42,7 @@ a:hover {
     .container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-        justify-items: center;
+        justify-items: left;
         padding-top: 50px;
         padding-left: 30px;
         font-family: 'Special Elite', cursive;
