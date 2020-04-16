@@ -44,16 +44,16 @@ a:hover {
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
         justify-items: left;
         padding-top: 50px;
-        padding-left: 30px;
+        padding-left: 50px;
         font-family: 'Special Elite', cursive;
     }
     .recipes {
-        font-size: 40%;
+        font-size: 45%;
         margin-left: auto;
         line-height: 150%;
     }
     .categories {
-        font-size: 250%;
+        font-size: 300%;
         padding-top: 30px;
     }
 }
