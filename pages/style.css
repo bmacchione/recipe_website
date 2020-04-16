@@ -43,7 +43,7 @@ a:hover {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
         justify-items: left;
-        padding-top: 50px;
+        padding-top: 10px;
         padding-left: 30px;
         font-family: 'Special Elite', cursive;
     }
